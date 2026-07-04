@@ -2,7 +2,7 @@
 
 # CH. HEMANTH SAI
 
-### Data Analytics • Business Intelligence • Machine Learning • PostgreSQL
+### Data Analytics • Data Engineering • Business Intelligence • Machine Learning
 
 **Building data-driven solutions that transform raw data into meaningful business decisions.**
 
@@ -12,11 +12,11 @@
 
 ## 👋 About Me
 
-I'm a B.E student in **Artificial Intelligence & Data Science (AIDS)** at **Chaitanya Bharathi Institute of Technology (CBIT)**.
+I'm a B.E. student in Artificial Intelligence & Data Science (AIDS) at Chaitanya Bharathi Institute of Technology (CBIT).
 
-My primary focus is building practical, end-to-end analytics solutions that combine **data engineering, business intelligence, and machine learning** to solve real-world business problems.
+My primary focus is building practical, end-to-end analytics solutions that combine data engineering, business intelligence, and machine learning to solve real-world business problems.
 
-Over the past few months, I've developed projects involving **PostgreSQL data warehousing, ETL pipelines, Power BI dashboards, machine learning models, and interactive applications**, with an emphasis on writing clean, well-documented, and production-inspired solutions.
+My work spans PostgreSQL data warehousing, ETL pipelines, SQL analytics, Power BI dashboards, machine learning, and interactive decision-support applications, with an emphasis on clean architecture, technical documentation, and business-driven solutions.
 
 ---
 
@@ -39,19 +39,20 @@ Over the past few months, I've developed projects involving **PostgreSQL data wa
 
 ## 🏥 Healthcare Analytics & Business Intelligence System
 
-#### End-to-end healthcare analytics platform for transforming large-scale hospital discharge data into actionable business insights.
+#### Production-style healthcare data warehouse and business intelligence platform for multi-year healthcare analytics.
 
-A comprehensive healthcare analytics platform designed using **PostgreSQL**, **dimensional data warehousing**, **ETL pipelines**, and **Power BI** to transform large-scale healthcare data into actionable business insights.
+An end-to-end healthcare analytics platform built using **PostgreSQL 18**, **dimensional data warehousing**, **multi-year ETL pipelines**, **SQL analytics**, and **Power BI** to transform large-scale healthcare data into actionable business insights.
 
 ### Project Highlights
 
-* 📊 Analyzed **2.2+ Million** healthcare records
-* 🗄️ Designed a **PostgreSQL Data Warehouse**
-* ⭐ Implemented a **Star Schema** for analytical workloads
-* ⚙️ Built a complete **ETL Pipeline**
-* 📈 Developed a **7-page Power BI Dashboard**
-* 🚀 Applied **Query Optimization** and indexing strategies
-* 📑 Produced comprehensive technical & business documentation
+* 📊 Integrated **16.31+ Million** healthcare records across **7 years**
+* 🗄️ Designed a production-style **PostgreSQL Data Warehouse**
+* ⭐ Implemented a **Star Schema** with **8 Dimension Tables & 1 Fact Table**
+* ⚙️ Built a reusable **Multi-Year ETL Pipeline** with ETL auditing
+* 📈 Developed an **8-page Power BI Dashboard** with historical trend analysis
+* 📑 Created **11 Analytics Views**, **6 Materialized Views**, and **8 SQL Analytics Modules**
+* 🚀 Optimized analytical queries using **Indexes** and **EXPLAIN ANALYZE**
+* 📚 Produced comprehensive technical and business documentation
 
 **Key Technologies**
 
@@ -67,7 +68,7 @@ A comprehensive healthcare analytics platform designed using **PostgreSQL**, **d
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hemanthsai456/sparcs-healthcare-analytics-bi)
 
-[![Documentation](https://img.shields.io/badge/Documentation-0B5FFF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Hemanthsai456/sparcs-healthcare-analytics-bi/tree/main/DOCS)
+[![Documentation](https://img.shields.io/badge/Documentation-0B5FFF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Hemanthsai456/sparcs-healthcare-analytics-bi/tree/main/docs)
 
 </td>
 
@@ -75,24 +76,27 @@ A comprehensive healthcare analytics platform designed using **PostgreSQL**, **d
 
 ## 📦 Medical Inventory Forecasting & Decision Support System
 
-#### Machine learning decision support system for forecasting medical inventory demand.
+#### End-to-end machine learning and decision support system for medical inventory demand forecasting.
 
-An end-to-end machine learning solution developed to forecast medical inventory demand and support procurement decisions through predictive analytics and explainable AI.
+An end-to-end machine learning application developed to forecast medical inventory demand and support inventory planning through predictive analytics, explainable AI, inventory segmentation, and business decision-support workflows.
 
 ### Project Highlights
 
-* 🤖 Built a complete ML pipeline
-* 📊 Performed feature engineering & preprocessing
-* 🧠 Evaluated **14 regression models**
-* 🔍 Integrated **SHAP Explainability**
-* 🌐 Developed an interactive **Streamlit** application
-* 📈 Created business-focused visualizations & insights
+* 🤖 Evaluated **14 Machine Learning & Ensemble Models**
+* 🏆 Selected **Gradient Boosting Regressor** as the final production model (**R² = 0.7978**)
+* 📊 Performed feature engineering, preprocessing, and hyperparameter tuning
+* 📉 Conducted comprehensive **Error Analysis & Model Diagnostics**
+* 🧠 Implemented **SHAP Explainable AI** for global and local model interpretation
+* 📦 Applied **K-Means Inventory Segmentation** for inventory strategy analysis
+* 🎯 Developed **Demand Classification**, **Inventory Risk Assessment**, and **Procurement Recommendation Engine**
+* 🌐 Built and deployed a multi-page **Streamlit Decision Support Application**
+* 📚 Produced professional technical and business documentation
 
 **Key Technologies**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-F7931E?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
 
 ![XGBoost](https://img.shields.io/badge/XGBoost-0066CC?style=flat-square)
 
@@ -100,11 +104,12 @@ An end-to-end machine learning solution developed to forecast medical inventory 
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square)
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hemanthsai456/Medical-Inventory-Forecasting-Decision-Support-System)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Hemanthsai456/Medical-Inventory-Forecasting-Decision-Support-System)
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://hemanthsai-medical-inventory-decision-support.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)](https://hemanthsai-medical-inventory-decision-support.streamlit.app/)
 
-[![Documentation](https://img.shields.io/badge/Documentation-0B5FFF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Hemanthsai456/Medical-Inventory-Forecasting-Decision-Support-System/blob/main/README.md)
+[![Documentation](https://img.shields.io/badge/Documentation-0B5FFF?style=for-the-badge\&logo=readthedocs\&logoColor=white)](https://github.com/Hemanthsai456/Medical-Inventory-Forecasting-Decision-Support-System/tree/main/documentation)
+
 </td>
 </tr>
 </table>
@@ -113,15 +118,17 @@ An end-to-end machine learning solution developed to forecast medical inventory 
 
 ### 📈 Portfolio Snapshot
 
-| Metric                               |              Achievement |
-| ------------------------------------ | -----------------------: |
-| 🚀 Flagship Projects                 |                        2 |
-| 📊 Largest Dataset Processed         | **2.2+ Million Records** |
-| 🧠 Machine Learning Models Evaluated |                   **14** |
-| 🗄️ Database Platform                |               PostgreSQL |
-| 📊 Business Intelligence Tool        |                 Power BI |
-| 🌐 Interactive Applications          |                Streamlit |
-| 📚 Professional Documentation        |  10+ Technical Documents |
+| Metric | Achievement |
+|--------------------------------------|---------------------------:|
+| 🚀 Flagship Projects | 2 |
+| 📊 Largest Dataset Processed | **16.31+ Million Records** |
+| 📅 Years of Data Integrated | **7 Years** |
+| 🧠 Machine Learning Models Evaluated | **14** |
+| 🗄️ Database Platform | PostgreSQL 18 |
+| 📊 Business Intelligence Tool | Power BI |
+| 🌐 Interactive Applications | Streamlit |
+| 📚 Professional Documentation | **Comprehensive Project Documentation** |
+
 
 # 📂 Other Projects
 
@@ -143,8 +150,8 @@ An end-to-end machine learning solution developed to forecast medical inventory 
 | **Data Analytics**              | Pandas • NumPy • Microsoft Excel                    |
 | **Business Intelligence**       | Power BI • Tableau                                  |
 | **Machine Learning**            | Scikit-learn • XGBoost • SHAP                       |
-| **Visualization**               | Matplotlib • Plotly                                 |
-| **Development Tools**           | Git • GitHub • Jupyter Notebook • Streamlit         |
+| **Visualization**               | Matplotlib • Plotly • Seaborn                                 |
+| **Development Tools**           |Git • GitHub • Jupyter Notebook • Streamlit • VS Code         |
 
 ---
 
@@ -171,4 +178,3 @@ An end-to-end machine learning solution developed to forecast medical inventory 
 **Building practical analytics solutions through Data Engineering, Business Intelligence, and Machine Learning.**
 
 </div>
-

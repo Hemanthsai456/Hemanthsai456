@@ -68,7 +68,7 @@ An end-to-end healthcare analytics platform built using **PostgreSQL 18**, **dim
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hemanthsai456/sparcs-healthcare-analytics-bi)
 
-[![Documentation](https://img.shields.io/badge/Documentation-0B5FFF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Hemanthsai456/sparcs-healthcare-analytics-bi/tree/main/docs)
+[![Documentation](https://img.shields.io/badge/Documentation-0B5FFF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Hemanthsai456/sparcs-healthcare-analytics-bi/tree/main/DOCS)
 
 </td>
 
@@ -159,7 +159,7 @@ An end-to-end machine learning application developed to forecast medical invento
 
 <p align="center">
 
-<a href=" https://www.linkedin.com/in/hemanth-sai-charagundla-4a8659376/">
+<a href="https://www.linkedin.com/in/hemanth-sai-charagundla-4a8659376?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 

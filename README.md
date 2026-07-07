@@ -2,7 +2,23 @@
 
 # CH. HEMANTH SAI
 
+📍 Hyderabad, India
+🎓 B.E. Artificial Intelligence & Data Science @ CBIT
+💼 Seeking Data Analytics / BI / Data Engineering / Machine Learning Internship (2026)
+
 ### Data Analytics • Data Engineering • Business Intelligence • Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+</p>
 
 **Building data-driven solutions that transform raw data into meaningful business decisions.**
 
@@ -116,19 +132,6 @@ An end-to-end machine learning application developed to forecast medical invento
 
 ---
 
-### 📈 Portfolio Snapshot
-
-| Metric | Achievement |
-|--------------------------------------|---------------------------:|
-| 🚀 Flagship Projects | 2 |
-| 📊 Largest Dataset Processed | **16.31+ Million Records** |
-| 📅 Years of Data Integrated | **7 Years** |
-| 🧠 Machine Learning Models Evaluated | **14** |
-| 🗄️ Database Platform | PostgreSQL 18 |
-| 📊 Business Intelligence Tool | Power BI |
-| 🌐 Interactive Applications | Streamlit |
-| 📚 Professional Documentation | **Comprehensive Project Documentation** |
-
 
 # 📂 Other Projects
 
@@ -159,12 +162,16 @@ An end-to-end machine learning application developed to forecast medical invento
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/hemanth-sai-charagundla-4a8659376?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="https://www.linkedin.com/in/hemanthsai456/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:hemanthsai.ch456@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Hemanthsai456/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </p>
@@ -175,6 +182,6 @@ An end-to-end machine learning application developed to forecast medical invento
 
 ### ⭐ Thanks for visiting my profile!
 
-**Building practical analytics solutions through Data Engineering, Business Intelligence, and Machine Learning.**
+**Building practical, end-to-end data solutions through Data Engineering, Business Intelligence, and Machine Learning.**
 
 </div>

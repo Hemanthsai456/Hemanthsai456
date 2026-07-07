@@ -36,17 +36,6 @@ My work spans PostgreSQL data warehousing, ETL pipelines, SQL analytics, Power B
 
 ---
 
-## 🎯 Professional Focus
-
-| Category          | Focus Area                                                             |
-| ----------------- | ---------------------------------------------------------------------- |
-| 📊 Specialization | Data Analytics • Business Intelligence • Machine Learning • PostgreSQL |
-| 🏗️ Core Strength | Building end-to-end data solutions from raw data to business insights  |
-| 🎓 Education      | B.Tech – Artificial Intelligence & Data Science (CBIT)                 |
-| 🚀 Career Goal    | Data Analytics • Business Intelligence • Data Engineering              |
-
----
-
 # ⭐ Featured Projects
 
 <table>

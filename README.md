@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
 </p>
 
-**Building data-driven solutions that transform raw data into meaningful business decisions.**
+**Building production-style data engineering, analytics, and machine learning solutions from raw data to business insights.**
 
 </div>
 

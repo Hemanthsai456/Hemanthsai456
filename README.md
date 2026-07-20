@@ -135,6 +135,7 @@ An end-to-end machine learning application developed to forecast medical invento
 
 | Project                        | Domain                        | Key Technologies                                |
 | ------------------------------ | ----------------------------- | ----------------------------------------------- |
+|🤖 **NIDHI (V1)** | AI Financial Assistant Platform | React • Firebase • Gemini AI • Financial Analytics |
 | 🎌 **Anime & Manga Analytics** | Exploratory Data Analysis     | Python • Pandas • Power BI • Data Visualization |
 | 🛡️ **Hate Speech Detection**  | Natural Language Processing   | Python • Scikit-learn • NLP                     |
 | 🚌 **Bunk Ride**               | Web Application               | HTML • CSS • JavaScript                         |

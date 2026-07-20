@@ -28,11 +28,20 @@
 
 ## 👋 About Me
 
-I'm a B.E. student in Artificial Intelligence & Data Science (AIDS) at Chaitanya Bharathi Institute of Technology (CBIT).
+I'm a 5th sem B.E. student in Artificial Intelligence & Data Science (AIDS) at Chaitanya Bharathi Institute of Technology (CBIT).
 
 My primary focus is building practical, end-to-end analytics solutions that combine data engineering, business intelligence, and machine learning to solve real-world business problems.
 
 My work spans PostgreSQL data warehousing, ETL pipelines, SQL analytics, Power BI dashboards, machine learning, and interactive decision-support applications, with an emphasis on clean architecture, technical documentation, and business-driven solutions.
+
+---
+
+# 🚀 Currently Working On
+
+- 🎓 NIDHI – AI Academic Assistant (Demo V1 Completed)
+- 📚 Strengthening Data Structures & Algorithms and SQL
+- 🏗️ Building production-style Data Engineering and Machine Learning projects
+- 💼 Preparing for Data Analytics, BI, Data Engineering, and ML internships
 
 ---
 
@@ -137,7 +146,7 @@ An end-to-end machine learning application developed to forecast medical invento
 
 | Domain                          | Technologies                                        |
 | ------------------------------- | --------------------------------------------------- |
-| **Programming**                 | Python • SQL • C++                                  |
+| **Programming**                 | Python • SQL • C++ • R • Java                       |
 | **Database & Data Engineering** | PostgreSQL • ETL • Star Schema • Query Optimization |
 | **Data Analytics**              | Pandas • NumPy • Microsoft Excel                    |
 | **Business Intelligence**       | Power BI • Tableau                                  |
@@ -150,6 +159,10 @@ An end-to-end machine learning application developed to forecast medical invento
 # 🤝 Let's Connect
 
 <p align="center">
+
+<a href="https://hemanth-sai-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/hemanthsai456/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>

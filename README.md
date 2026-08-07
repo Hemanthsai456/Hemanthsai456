@@ -28,7 +28,7 @@
 
 ## 👋 About Me
 
-I'm a 5th sem B.E. student in Artificial Intelligence & Data Science (AIDS) at Chaitanya Bharathi Institute of Technology (CBIT).
+I'm a 5th sem B.E. student in Artificial Intelligence & Data Science (AIDS) at Chaitanya Bharathi Institute of Technology (CBIT) with an 8.80/10 CGPA.
 
 My primary focus is building practical, end-to-end analytics solutions that combine data engineering, business intelligence, and machine learning to solve real-world business problems.
 

@@ -25,7 +25,7 @@
 
 ## ⭐ Flagship Systems
 
-### 🏥 Healthcare Analytics & Business Intelligence System
+### 🏥 [Healthcare Analytics & Business Intelligence System](https://github.com/Hemanthsai456/sparcs-healthcare-analytics-bi))
 *A dimensional data warehouse and BI platform on PostgreSQL 18, turning 7 years of hospital discharge data into decision-ready analytics.*
 
 `RAW DATA → STAGING → ETL + VALIDATION → STAR SCHEMA → SQL ANALYTICS → POWER BI`
@@ -47,7 +47,7 @@
 
 <br/>
 
-### 📦 Medical Inventory Forecasting & Decision Support System
+### 📦 [Medical Inventory Forecasting & Decision Support System](https://github.com/Hemanthsai456/Medical-Inventory-Forecasting-Decision-Support-System)
 *An end-to-end ML system that forecasts demand and turns predictions into procurement decisions.*
 
 `DATA → PREPROCESSING → FEATURE ENGINEERING → MODEL COMPARISON → FORECASTING → EXPLAINABILITY → DECISION SUPPORT`
@@ -82,7 +82,7 @@
 | 🎌 [Anime & Manga Analytics](https://github.com/Hemanthsai456/Anime-Manga-Analytics-Recommendation-System) | EDA + Recommendation Engine | Python • Pandas • Power BI • TF-IDF |
 | 🛡️ [Hate Speech Detection](https://github.com/Hemanthsai456/Hate-Speech-Detection-System) | NLP Text Classification | Python • Scikit-learn • Streamlit |
 | 🚌 [Bunk Ride](https://github.com/srujangandla/bunkride) | Real-time Ride Booking App | React • Node.js • Socket.IO • Maps API |
-| 💡 StudiQ | Smart India Hackathon Project | Full-Stack Web Development |
+| 💡 [StudiQ]([https://github.com/Hemanthsai456/Studiq](https://github.com/Hemanthsai456/StudIQ-SIH2025) | Smart India Hackathon Project | Full-Stack Web Development |
 
 </details>
 

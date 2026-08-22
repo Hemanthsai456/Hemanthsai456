@@ -143,7 +143,10 @@
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanthsai456&theme=tokyonight&background=0B0F19&ring=2C81F5&fire=2C81F5&currStreakLabel=2C81F5&sideLabels=C7D6FF&dates=8892B0&border=2C81F5" height="155" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Hemanthsai456&theme=tokyonight&background=0B0F19&ring=2C81F5&fire=2C81F5&currStreakLabel=2C81F5&sideLabels=C7D6FF&dates=8892B0&border=2C81F5"
+    height="155"
+  />
 </p>
 
 <p align="center">

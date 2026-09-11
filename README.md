@@ -19,7 +19,7 @@
 - 🎓 B.E. **Artificial Intelligence & Data Science**, Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad — **8.80/10 CGPA**
 - 💼 Selected participant, **Evernorth Early Internship Program (2026)** — AI & Data Science / AI & ML cohorts
 - 📊 Focused on turning **raw data → reliable analytical systems → actionable business decisions**
-- 🎯 Open to **Data Analytics / BI / Data Engineering / Machine Learning internships (2026)**
+- 🎯 Building toward **Data Science, Machine Learning, AI, Analytics, and Data Engineering roles.**
 
 ---
 
@@ -136,7 +136,7 @@
 - 🗄️ **Data Engineering:** Deepening PostgreSQL, advanced SQL, ETL design, data modeling, and system architecture
 - 🧠 **ML / AI:** Strengthening model development, evaluation, explainability, and ML system design
 - 💻 **DSA:** Building strong C++ problem-solving fundamentals and algorithmic thinking
-- 🎯 **Career:** Preparing for **2026 Data / AI internship opportunities** through projects, technical depth, and the Evernorth program
+- 🎯 **Career:** **Building depth across Data Science, Machine Learning, AI, Analytics, and Data Engineering for upcoming professional roles**
 
 ---
 

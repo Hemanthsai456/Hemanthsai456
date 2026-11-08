@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://profilepulse-rayd.onrender.com/badge/Hemanthsai456?label=Unique Visitors">
+  <img src="https://profilepulse-rayd.onrender.com/badge/Hemanthsai456?label=Unique%20Visitors">
 </p>
 
 ---

@@ -12,6 +12,10 @@
   <a href="mailto:hemanthsai.ch456@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://profilepulse-rayd.onrender.com/badge/Hemanthsai456?label=Unique Visitors">
+</p>
+
 ---
 
 ## About

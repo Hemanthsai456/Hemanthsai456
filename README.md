@@ -153,15 +153,9 @@
 ## GitHub Activity
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Hemanthsai456&theme=tokyonight&background=0B0F19&ring=2C81F5&fire=2C81F5&currStreakLabel=2C81F5&sideLabels=C7D6FF&dates=8892B0&border=2C81F5"
-    height="155"
-  />
+  <img src="./assets/profile/contributions.dark.svg" width="97%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemanthsai456&theme=tokyo-night&bg_color=0B0F19&color=2C81F5&line=2C81F5&point=FFFFFF&area=true&hide_border=false" width="97%" />
-</p>
 
 ---
 

@@ -1,4 +1,5 @@
-name: Profile Cards
+
+name: Generate Profile Cards
 
 on:
   schedule:
@@ -27,4 +28,5 @@ jobs:
           cards: contributions,momentum,overview
           output-dir: assets/profile
           themes: dark
+          palette: blue
           commit: true

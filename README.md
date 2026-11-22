@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Hemanthsai456"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://hemanth-sai-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://hemanth-sai.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/hemanthsai456/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/hemanthsai456/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:hemanthsai.ch456@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -165,7 +165,7 @@
   <a href="https://github.com/Hemanthsai456">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://hemanth-sai-portfolio.vercel.app/">
+  <a href="https://hemanth-sai.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-2C81F5?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/hemanthsai456/">

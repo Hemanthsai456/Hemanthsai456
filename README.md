@@ -5,11 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Hemanthsai456"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://hemanth-sai.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hemanthsai456/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/hemanthsai456/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:hemanthsai.ch456@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://hemanth-sai.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2C81F5?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hemanthsai456/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/hemanthsai456/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:hemanthsai.ch456@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -23,7 +22,7 @@
 - 🎓 B.E. **Artificial Intelligence & Data Science**, Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad — **8.80/10 CGPA**
 - 💼 Selected for the **Evernorth (Cigna) AI/ML Industry Training Program (2026)** — deep learning, GenAI, NLP, and healthcare analytics
 - 📊 I turn **raw data → reliable analytical systems → actionable business decisions**
-- 🎯 Building toward **Data Analyst, Data Engineer, BI, and Machine Learning roles**
+- 🟢 **Open to internships** in Data Engineering, Data Analytics, BI, and Machine Learning
 
 ---
 
@@ -46,7 +45,8 @@
 | 16.3M+ | 7 | 8 dims + 1 fact | 11 + 6 mat. | 8-page Power BI |
 
 `PostgreSQL` `SQL` `ETL` `Star Schema` `Power BI` `DAX`
-[Repository](https://github.com/Hemanthsai456/sparcs-healthcare-bi-platform)
+
+[Repository](https://github.com/Hemanthsai456/sparcs-healthcare-bi-platform) · [Case Study](https://github.com/Hemanthsai456/sparcs-healthcare-bi-platform/tree/main/DOCS)
 
 <br/>
 
@@ -64,7 +64,8 @@
 - Deployed as an 8-page **Streamlit** decision-support app
 
 `Python` `Scikit-learn` `XGBoost` `SHAP` `Streamlit`
-[Repository](https://github.com/Hemanthsai456/Medical-Inventory-Forecasting-Decision-Support-System) · [Live Demo](https://hemanthsai-medical-inventory-decision-support.streamlit.app/)
+
+[Repository](https://github.com/Hemanthsai456/Medical-Inventory-Forecasting-Decision-Support-System) · [Live Demo](https://hemanthsai-medical-inventory-decision-support.streamlit.app/) *(free-tier hosting — may take ~30s to wake)*
 
 <br/>
 
@@ -76,31 +77,19 @@
 - Cold-start model for **2,107 unseen movies** cut MAE by **19.81%** and RMSE by **21.35%** versus the global-mean baseline
 
 `Python` `TensorFlow` `Keras` `CLIP` `VGGish` `Streamlit`
-[Repository](https://github.com/Hemanthsai456/Multimodal-Cold-Start-Movie-Recommender) · [Live Demo](https://hemanth-cold-start-user-based-movie-recommendation.streamlit.app/)
+
+[Repository](https://github.com/Hemanthsai456/Multimodal-Cold-Start-Movie-Recommender) · [Live Demo](https://hemanth-cold-start-user-based-movie-recommendation.streamlit.app/) *(free-tier hosting — may take ~30s to wake)*
 
 ---
 
-## AI / Product Project
+## More Strong Projects
 
-**[NIDHI — AI Investor Super App](https://github.com/Hemanthsai456/NIDHI)** — team of 4. Unifies 7 asset classes in one portfolio with AI-driven, personalized investment intelligence and a Gemini-powered assistant. `React` `FastAPI` `PostgreSQL` `Firebase` `Gemini AI` · [Live App](https://nidhiapp.vercel.app)
-
----
-
-## Other Projects
-
-<details>
-<summary><b>View more</b></summary>
-<br>
-
-| Project | Domain | Key Technologies |
+| Project | What it does | Key Technologies |
 |---|---|---|
-| 🖥️ [Data Center Resource Analytics](https://github.com/Hemanthsai456/Data-Center-Resource-Analytics) | 2.7M-row telemetry analysis, water-demand model (R² 0.98) | Python • Scikit-learn • Pandas |
-| 🧠 [Human Decision Intelligence](https://github.com/Hemanthsai456/Human-Decision-Intelligence) | Explainable behavioral modeling | R • Shiny • XGBoost • SHAP |
-| 🎌 [Anime & Manga Analytics](https://github.com/Hemanthsai456/Anime-Manga-Recommendation-Analytics) | EDA + Recommendation Engine | Python • Power BI • TF-IDF |
-| 🛡️ [Hate Speech Detection](https://github.com/Hemanthsai456/NLP-Hate-Speech-Classifier) | NLP Text Classification | Python • Scikit-learn • Streamlit |
-| 💡 [StudIQ](https://github.com/Hemanthsai456/StudIQ-SIH2025) | Smart India Hackathon 2025 Project | HTML • CSS • JavaScript |
-
-</details>
+| 🚀 [**NIDHI — AI Investor Super App**](https://github.com/Hemanthsai456/NIDHI) · [Live](https://nidhiapp.vercel.app) | Team of 4. Unifies 7 asset classes in one portfolio with health, diversification and liquidity scores, and a Gemini assistant grounded in the user's own holdings | React • TypeScript • FastAPI • PostgreSQL • Firebase • Gemini |
+| 🖥️ [**Data Center Resource Analytics**](https://github.com/Hemanthsai456/Data-Center-Resource-Analytics) | 2.7M-row server telemetry linked to heat load and cooling-water demand with a leakage-free model (R² 0.98) | Python • Scikit-learn • Pandas • Plotly |
+| 🧠 [**Human Decision Intelligence**](https://github.com/Hemanthsai456/Human-Decision-Intelligence) | Explainable modeling of 105K human decisions under risk (70.95% accuracy, 0.79 ROC-AUC) with SHAP and LIME | R • Shiny • XGBoost • SHAP |
+| 📈 [**ProfilePulse** *(Beta)*](https://github.com/Hemanthsai456/ProfilePulse) | Privacy-first visitor badge service for GitHub profile READMEs (the badge on this page). Counts GitHub Camo proxy requests with daily-rotating HMAC visitor keys, no stored IPs or User-Agents, 30-day retention, and rate limiting | Python • FastAPI • PostgreSQL • Docker • pytest |
 
 ---
 
@@ -143,40 +132,40 @@
 
 ## Current Focus
 
-- 🗄️ **Data Engineering:** Deepening PostgreSQL, advanced SQL, ETL design, and data modeling
-- 🧠 **ML / AI:** Model evaluation, explainability, and ML system design through the Evernorth training program
-- 🚀 **NIDHI:** Extending the V1 demo toward a production-ready AI application
-- 💻 **DSA:** Building strong problem-solving fundamentals on LeetCode
+- 🗄️ **SQL & Data Engineering:** Advanced SQL, PostgreSQL, ETL design, and data modeling
+- 💻 **DSA:** Problem-solving practice on LeetCode
+- 🧠 **ML / DL / AI:** Model evaluation, explainability, and ML system design through the Evernorth training program
+- 📐 **Aptitude & Communication:** Logical reasoning, quantitative aptitude, maths, and clear technical communication
 
 ---
 
 ## GitHub Activity
 
 <p align="center">
-  <img src="./assets/profile/contributions.dark.svg" width="97%" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/contributions.light.svg">
+    <img src="./assets/profile/contributions.dark.svg" alt="GitHub contribution graph" width="97%" />
+  </picture>
 </p>
-
 
 ---
 
 ## Let's Connect
 
 <p align="center">
-  <a href="https://github.com/Hemanthsai456">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://hemanth-sai.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-2C81F5?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/hemanthsai456/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/hemanthsai456/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:hemanthsai.ch456@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <b>Looking for a Data / ML intern?</b><br/>
+  I'm happy to walk through any project here: the data, the methods, and what I'd change next time.
+</p>
+
+<p align="center">
+  <a href="mailto:hemanthsai.ch456@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hemanthsai456/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://hemanth-sai.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-2C81F5?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/hemanthsai456/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
+
+<p align="center">
+  <sub>📍 Hyderabad, India · 🕐 Usually replies within 24–48 hours</sub>
 </p>
 
 <p align="center">

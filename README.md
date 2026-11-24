@@ -160,7 +160,7 @@
 <p align="center">
   <a href="mailto:hemanthsai.ch456@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/hemanthsai456/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://hemanth-sai.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-2C81F5?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://hemanth-sai.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2C81F5?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://leetcode.com/u/hemanthsai456/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
